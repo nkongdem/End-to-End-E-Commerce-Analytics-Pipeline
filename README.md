@@ -4,20 +4,6 @@
 
 A complete data analytics pipeline on the Brazilian e-commerce dataset by Olist, turning raw relational transaction data into customer-level insights, RFM segments, and business visualizations.
 
-## Results
-
-**Top-selling products by revenue**
-
-![Top-selling products](charts/chart_1.png)
-
-**Monthly revenue trend**
-
-![Monthly revenue](charts/chart_2.png)
-
-**RFM heatmap by customer cluster**
-
-![RFM heatmap by cluster](charts/chart_3.png)
-
 ## Overview
 
 This project builds a complete data analytics pipeline using the Brazilian E-Commerce Public Dataset by Olist (Kaggle). The goal is to transform raw transactional data into structured business insights by cleaning, merging, aggregating, and analyzing customer and order data. The pipeline covers data preparation, feature engineering, RFM analysis, clustering, visualization, and exporting cleaned datasets for further business intelligence or machine learning applications.
@@ -61,6 +47,20 @@ This project builds a complete data analytics pipeline using the Brazilian E-Com
 ├── charts/                       # Result chart images (shown above)
 └── README.md
 ```
+
+## Results
+
+**Top-selling products by revenue**
+
+![Top-selling products](charts/chart_1.png)
+
+**Monthly revenue trend**
+
+![Monthly revenue](charts/chart_2.png)
+
+**RFM heatmap by customer cluster**
+
+![RFM heatmap by cluster](charts/chart_3.png)
 
 ## Tools
 
